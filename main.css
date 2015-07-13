@@ -1,0 +1,140 @@
+.approved_svg {
+  stroke: #28a545;
+  fill: #33cd56;
+}
+.increased_d_svg {
+  stroke: #900703;
+  fill: #c20a04;
+}
+.increased_c_svg {
+  stroke: #cc3203;
+  fill: #fb4007;
+}
+.increased_b_svg {
+  stroke: #d27609;
+  fill: #f59019;
+}
+.increased_a_svg {
+  stroke: #eaaf03;
+  fill: #fcc524;
+}
+.decreased_d_svg {
+  stroke: #02226a;
+  fill: #03329c;
+}
+.decreased_c_svg {
+  stroke: #024fab;
+  fill: #0266de;
+}
+.decreased_b_svg {
+  stroke: #078df1;
+  fill: #32a4f9;
+}
+.decreased_a_svg {
+  stroke: #44c4d0;
+  fill: #6dd1da;
+}
+.unchanged_svg {
+  stroke: #b8b8b8;
+  fill: #cccccc;
+}
+.approved_bg {
+  background-color: #33cd56;
+  fill: #33cd56;
+}
+.increased_d_bg {
+  background-color: #c20a04;
+  fill: #c20a04;
+}
+.increased_c_bg {
+  background-color: #fb4007;
+  fill: #fb4007;
+}
+.increased_b_bg {
+  background-color: #f59019;
+  fill: #f59019;
+}
+.increased_a_bg {
+  background-color: #fcc524;
+  fill: #fcc524;
+}
+.decreased_d_bg {
+  background-color: #03329c;
+  fill: #03329c;
+}
+.decreased_c_bg {
+  background-color: #0266de;
+  fill: #0266de;
+}
+.decreased_b_bg {
+  background-color: #32a4f9;
+  fill: #32a4f9;
+}
+.decreased_a_bg {
+  background-color: #6dd1da;
+  fill: #6dd1da;
+}
+.unchanged_bg {
+  background-color: #cccccc;
+  fill: #cccccc;
+}
+.approved_text {
+  color: #33cd56;
+}
+.increased_d_text {
+  color: #c20a04;
+}
+.increased_c_text {
+  color: #fb4007;
+}
+.increased_b_text {
+  color: #f59019;
+}
+.increased_a_text {
+  color: #eaaf03;
+}
+.decreased_a_text {
+  color: #44c4d0;
+}
+.decreased_b_text {
+  color: #32a4f9;
+}
+.decreased_c_text {
+  color: #0266de;
+}
+.decreased_d_text {
+  color: #03329c;
+}
+.unchanged_text {
+  color: #888888;
+}
+.approved_border {
+  border-color: #33cd56;
+}
+.increased_d_border {
+  border-color: #c20a04;
+}
+.increased_c_border {
+  border-color: #fb4007;
+}
+.increased_b_border {
+  border-color: #f59019;
+}
+.increased_a_border {
+  border-color: #fcc524;
+}
+.decreased_d_border {
+  border-color: #03329c;
+}
+.decreased_a_border {
+  border-color: #6dd1da;
+}
+.decreased_b_border {
+  border-color: #32a4f9;
+}
+.decreased_c_border {
+  border-color: #0266de;
+}
+.unchanged_border {
+  border-color: #cccccc;
+}
